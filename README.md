@@ -5,8 +5,7 @@
     <img src="https://camo.githubusercontent.com/17b05965be9ef91827ce85c06e6e3587408055010bbdf0121511fe4e2145b4f0/68747470733a2f2f656d6f6a692e67672f6173736574732f656d6f6a692f393038352d746f746f726f2e706e67" alt="Logo" width="200" height="200">
   <p align="center">
     <br />
-    <p><b>Truong Thanh Nam</b> </p>
-    <h5>Software developer</h5>
+    <p><b>Truong Thanh Nam</b> </br> Software developer</p>
   </p>
 </div>
 
