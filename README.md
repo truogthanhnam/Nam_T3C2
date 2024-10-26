@@ -34,8 +34,8 @@
 <!-- CONTACT -->
 ## Contact
 
-Email: truogthanhnam@gmail.com<br/>
-Facebook: [Trương Thanh Nam](https://facebook.com/ThanhNamx)
+✉️ Email: truogthanhnam@gmail.com<br/>
+ Facebook: [Trương Thanh Nam](https://facebook.com/ThanhNamx)
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
