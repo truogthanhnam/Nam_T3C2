@@ -34,7 +34,7 @@
 <!-- CONTACT -->
 ## Contact
 
-Email: truogthanhnam@gmail.com
+Email: truogthanhnam@gmail.com<br/>
 Facebook: facebook.com/ThanhNamx
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
