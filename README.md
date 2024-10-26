@@ -1,4 +1,4 @@
-# My Profile
+# Hi, I’m Nam!
 <a id="readme-top"></a>
 <br />
 <div align="center">
