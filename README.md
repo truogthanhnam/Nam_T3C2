@@ -2,7 +2,7 @@
 <a id="readme-top"></a>
 <br />
 <div align="center">
-    <img src="[https://cdn.tuoitre.vn/zoom/700_700/471584752817336320/2024/6/3/doraemon-3-17173722166781704981911-30-9-657-1207-crop-1717372336444425413969.jpeg](https://images.unsplash.com/photo-1621361365424-06f0e1eb5c49?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fGNvZGVyfGVufDB8fDB8fHww)" alt="Logo" width="200" height="200">
+    <img src="[https://camo.githubusercontent.com/17b05965be9ef91827ce85c06e6e3587408055010bbdf0121511fe4e2145b4f0/68747470733a2f2f656d6f6a692e67672f6173736574732f656d6f6a692f393038352d746f746f726f2e706e67](https://images.unsplash.com/photo-1621361365424-06f0e1eb5c49?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fGNvZGVyfGVufDB8fDB8fHww)" alt="Logo" width="200" height="200">
   <p align="center">
     <br />
     <p>Truong Thanh Nam - Software developer</p>
