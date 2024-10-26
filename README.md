@@ -1,11 +1,11 @@
-# Hello, I'm Nam
+# My Profile
 <a id="readme-top"></a>
 <br />
 <div align="center">
     <img src="[https://cdn.tuoitre.vn/zoom/700_700/471584752817336320/2024/6/3/doraemon-3-17173722166781704981911-30-9-657-1207-crop-1717372336444425413969.jpeg](https://images.unsplash.com/photo-1621361365424-06f0e1eb5c49?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fGNvZGVyfGVufDB8fDB8fHww)" alt="Logo" width="200" height="200">
   <p align="center">
     <br />
-    <p>I'm a Software developer</p>
+    <p>Truong Thanh Nam - Software developer</p>
   </p>
 </div>
 
