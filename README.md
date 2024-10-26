@@ -1,4 +1,4 @@
-# Hi, I’m Nam!
+# Hi, I’m Nam! 👋
 <a id="readme-top"></a>
 <br />
 <div align="center">
@@ -9,7 +9,7 @@
   </p>
 </div>
 
-## About me
+## About me 👨‍💻
 ### Programming language
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,7 +32,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 <!-- CONTACT -->
-## Contact
+## Contact 📬
 
 ✉️ Email: truogthanhnam@gmail.com<br/>
 🔗 Facebook: [Trương Thanh Nam](https://facebook.com/ThanhNamx)
