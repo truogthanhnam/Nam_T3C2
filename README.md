@@ -22,7 +22,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 👥 Giới thiệu nhóm
+## 👥 Giới thiệu nhóm đề tài Quản lý thư viện
 
 ### 🧑‍🤝‍🧑 Thành viên nhóm:
 
